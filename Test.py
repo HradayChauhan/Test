@@ -1,1 +1,1 @@
-Print("Hello");
+Prit("Hello");
